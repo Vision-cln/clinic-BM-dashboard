@@ -113,3 +113,41 @@
 17/06/2026 10:11:14 - ? Deployed to GitHub successfully
 17/06/2026 10:11:14 - URL: https://vision-cln.github.io/clinic-penang-dashboard/
 17/06/2026 10:11:14 - Step 4: Uploading log file...
+17/06/2026 10:11:16 - ? Log file uploaded to GitHub
+17/06/2026 10:11:16 - === PROCESS COMPLETED SUCCESSFULLY ===
+17/06/2026 11:13:35 - === AUTO DASHBOARD GENERATION STARTED ===
+17/06/2026 11:13:35 - Timestamp: 17/06/2026 11:13:35
+17/06/2026 11:13:35 - Step 1: Generating last 3 days of dashboards...
+17/06/2026 11:13:35 - Regenerating last 3 days of dashboards...
+17/06/2026 11:13:35 - Generated: dashboard_20260615.html
+17/06/2026 11:13:35 - Generated: dashboard_20260616.html
+17/06/2026 11:13:35 - Generated: dashboard_20260617.html
+17/06/2026 11:13:35 - ? Regenerated 3 days of dashboards
+17/06/2026 11:13:35 - ? Dashboards generated successfully (includes yesterday for data updates)
+17/06/2026 11:13:35 - Step 1b: Regenerating main.html with date list...
+17/06/2026 11:13:35 - GenerateMainIndex: Searching for files in: D:\WINSOFT\CLINIC_VISTA_STOCK_SERVER\API_DATA\dashboard_*.html
+17/06/2026 11:13:35 - GenerateMainIndex: Found 4 files
+17/06/2026 11:13:35 - Generated main.html with 4 dates
+17/06/2026 11:13:35 - ? main.html regenerated with latest dates (DESCENDING order)
+17/06/2026 11:13:35 - Step 1c: Generating login page as index.html...
+17/06/2026 11:13:35 - Generated index.html (login page)
+17/06/2026 11:13:35 - ? Login page generated as index.html
+17/06/2026 11:13:35 - Step 1d: Exporting users to JSON...
+17/06/2026 11:13:35 - Exported 2 users to users.json
+17/06/2026 11:13:35 - Generated users.json
+17/06/2026 11:13:35 - ? users.json exported
+17/06/2026 11:13:35 - Step 2: Cleaning up old dashboard files...
+17/06/2026 11:13:35 - ? Cleaned up 0 old files
+17/06/2026 11:13:35 - Step 3: Deploying to GitHub...
+17/06/2026 11:13:35 - Found 6 files to upload
+17/06/2026 11:13:37 - Uploaded: dashboard_20260614.html
+17/06/2026 11:13:38 - Uploaded: dashboard_20260615.html
+17/06/2026 11:13:40 - Uploaded: dashboard_20260616.html
+17/06/2026 11:13:41 - Uploaded: dashboard_20260617.html
+17/06/2026 11:13:42 - Uploaded: index.html
+17/06/2026 11:13:43 - Uploaded: main.html
+17/06/2026 11:13:45 - Uploaded: users.json
+17/06/2026 11:13:45 - Upload complete: 7/7 files
+17/06/2026 11:13:45 - ? Deployed to GitHub successfully
+17/06/2026 11:13:45 - URL: https://vision-cln.github.io/clinic-penang-dashboard/
+17/06/2026 11:13:45 - Step 4: Uploading log file...
