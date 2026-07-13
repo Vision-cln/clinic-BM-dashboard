@@ -20,6 +20,10 @@ body { font-family: 'Segoe UI', Arial, sans-serif; margin: 0; padding: 0; backgr
 .stat-card:hover { transform: translateY(-3px); box-shadow: 0 4px 12px rgba(0,0,0,0.12); }
 .stat-value { font-size: 38px; font-weight: 700; color: #2196F3; margin-bottom: 8px; }
 .stat-label { color: #6c757d; font-size: 14px; font-weight: 500; text-transform: uppercase; letter-spacing: 0.5px; }
+.revenue-breakdown { margin-top:15px; border-top:1px solid #e9ecef; padding-top:12px; text-align:left; width:100%; }
+.revenue-row { display:flex; justify-content:space-between; align-items:center; width:100%; margin:8px 0; }
+.revenue-name { font-weight:600; color:#555; }
+.revenue-amount { font-weight:bold; color:#2196F3; }
 .data-table { width: 100%; background: white; border-radius: 12px; overflow: hidden; box-shadow: 0 2px 8px rgba(0,0,0,0.08); border: 1px solid #e9ecef; }
 .data-table th { background: linear-gradient(135deg, #2196F3 0%, #1976D2 100%); color: white; padding: 14px 16px; text-align: left; font-weight: 600; font-size: 13px; text-transform: uppercase; letter-spacing: 0.5px; }
 .data-table td { padding: 14px 16px; border-bottom: 1px solid #e9ecef; font-size: 14px; }
@@ -38,7 +42,7 @@ var _a=sessionStorage.getItem('auth');if(_a==null||_a==''){window.location.href=
 <div class='header'>
   <div class='header-top'>
     <a href='main.html' class='back-link'>&lt; Back to Main</a>
-    <span class='gen-info'>         Last Generated: 13/07/2026 14:12:16</span>
+    <span class='gen-info'>         Last Generated: 13/07/2026 14:38:51</span>
     <span style='margin-left:auto;font-size:13px'>User: <span id='user-display'></span></span>
   </div>
   <h1>Clinic Dashboard</h1>
